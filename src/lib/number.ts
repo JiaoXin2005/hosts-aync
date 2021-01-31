@@ -47,5 +47,6 @@ export const power = (base: number, exponent: number) => {
   /**
    * This es7 exponentiation operator is transpiled by TypeScript
    */
+
   return base ** exponent;
 };
